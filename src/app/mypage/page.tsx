@@ -1,4 +1,4 @@
-use client";
+use client;
 import Link from "next/link";
 import Header from "@/component/layout/Header";
 import { useUser } from "@/context/UserContext";
